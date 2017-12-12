@@ -14,37 +14,38 @@ body {
     text-align: center;
 }
 .image3 {
-    width: 80px;
-    height: 80px;
-    float: left;
-    margin-left: 10%;
-    margin-top: 120px;
+    width: 50px;
+    height: 50px;
+    margin-top: 80px;
 }
 .image4 {
-    width: 80px;
-    height: 80px;
-    float: right;
-    margin-right: 10%;
-    margin-top: 120px;
+    width: 50px;
+    height: 50px;
+    margin-top: 80px;
 }
-.image31 {
+.text1 {
     color: white;
     float: left;
-    margin-left: -4.5%;
-    margin-top: 185px;
+    width: 80px;
+    padding-left: 10%;
+    text-align: center;
 }
-.image41 {
+.text2 {
     color: white;
     float: right;
-    margin-right: -4.5%;
-    margin-top: 185px;
+    width: 80px;
+    padding-right: 10%;
+    text-align: center;
 }
 .image5 {
     margin-top: 50px;
-    height: 150px;
+    margin-left: 80px;
+    margin-right: 80px;
+    height: 130px;
     color: white;
     text-align: center;
 }
 .center {
     text-align: center;
 }
+
